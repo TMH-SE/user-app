@@ -1,0 +1,11 @@
+.container{
+  width: 90vw;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.control{
+  margin-bottom: 15px;
+}
+div.button{
+  padding-left: 25px;
+}
